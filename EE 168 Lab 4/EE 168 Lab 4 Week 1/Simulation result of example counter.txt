@@ -1,0 +1,38 @@
+Chronologic VCS simulator copyright 1991-2015
+Contains Synopsys proprietary information.
+Compiler version K-2015.09-SP1-1; Runtime version K-2015.09-SP1-1;  Feb 25 08:13                                                                                                                                                              2021
+time=    0 ns, clk=0, reset=0, out=xxxx
+time=   10 ns, clk=1, reset=0, out=xxxx
+time=   11 ns, clk=1, reset=1, out=xxxx
+time=   20 ns, clk=0, reset=1, out=xxxx
+time=   30 ns, clk=1, reset=1, out=xxxx
+time=   31 ns, clk=1, reset=0, out=0000
+time=   40 ns, clk=0, reset=0, out=0000
+time=   50 ns, clk=1, reset=0, out=0000
+time=   51 ns, clk=1, reset=0, out=0001
+time=   60 ns, clk=0, reset=0, out=0001
+time=   70 ns, clk=1, reset=0, out=0001
+time=   71 ns, clk=1, reset=0, out=0010
+time=   80 ns, clk=0, reset=0, out=0010
+time=   90 ns, clk=1, reset=0, out=0010
+time=   91 ns, clk=1, reset=0, out=0011
+time=  100 ns, clk=0, reset=0, out=0011
+time=  110 ns, clk=1, reset=0, out=0011
+time=  111 ns, clk=1, reset=0, out=0100
+time=  120 ns, clk=0, reset=0, out=0100
+time=  130 ns, clk=1, reset=0, out=0100
+time=  131 ns, clk=1, reset=0, out=0101
+time=  140 ns, clk=0, reset=0, out=0101
+time=  150 ns, clk=1, reset=0, out=0101
+time=  151 ns, clk=1, reset=0, out=0110
+time=  160 ns, clk=0, reset=0, out=0110
+time=  170 ns, clk=1, reset=0, out=0110
+All tests completed sucessfully
+
+
+$finish called from file "counter_tb.v", line 55.
+$finish at simulation time  171.0 ns
+           V C S   S i m u l a t i o n   R e p o r t
+Time: 171000 ps
+CPU Time:      0.320 seconds;       Data structure size:   0.0Mb
+Thu Feb 25 08:13:21 2021
